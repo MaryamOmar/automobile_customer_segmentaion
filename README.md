@@ -37,4 +37,8 @@ https://www.kaggle.com/abisheksudarshan/customer-segmentation
 
 
 ## TOOLS  
-- **Modeling:** scikit-learn 
+- Pandas
+- Numpy
+- Scikit-learn
+- Matplotlib
+- Seaborn
