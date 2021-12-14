@@ -23,7 +23,7 @@ https://www.kaggle.com/abisheksudarshan/customer-segmentation
 | col | Description | Type |
 | --- | --- | --- |
 | ID | Customer ID | string 
-| Gender| Customer gender | string 
+| Gender| Customer gender (male/female) | string 
 | Ever_Married | Marital status  | string
 | Age| customer age | int
 | Graduated | yes/no, gradtuation from college | string
